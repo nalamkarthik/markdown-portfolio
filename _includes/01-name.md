@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# karthik , cse
+## sun rises in the east
+milk is white in colour

@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+list of things i do like in emojis
+- cats
+- rabbits
+- puppies
